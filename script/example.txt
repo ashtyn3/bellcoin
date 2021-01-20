@@ -1,0 +1,7 @@
+from: fjdskafj
+to: fjdksaj
+amount: 222
+RET TXN:
+    HASH from, to, amount,
+    SIG zoom,
+END
